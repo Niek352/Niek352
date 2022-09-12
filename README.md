@@ -5,8 +5,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **pavelasdqwe@yandex.ru**
+<h3 align="left"> 📫 Connect with me:</h3>
+**pavelasdqwe@yandex.ru**
 <p align="left">
 </p>
 
