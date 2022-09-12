@@ -6,7 +6,7 @@
 
 
 <h3 align="left"> 📫 Connect with me:</h3>
-**pavelasdqwe@yandex.ru**
+pavelasdqwe@yandex.ru
 <p align="left">
 </p>
 
