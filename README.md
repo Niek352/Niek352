@@ -6,13 +6,25 @@
 
 
 <h3 align="left"> 📫 Connect with me:</h3>
-https://t.me/niek352
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/niek352)
+
 <p align="left">
 </p>
 
 <h3 align="left">Games I Worked On</h3>
-<!-- <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> -->
+
 [![Last Play](https://img.shields.io/badge/-Last_Play-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.jioka.lastplay)
+[![Last Life](https://img.shields.io/badge/-Last_Life-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=io.jioka.lastlife)
+[![Flash Ball](https://img.shields.io/badge/-Flash_Ball-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.THC.flashball)
+[![Jaw And Teeth](https://img.shields.io/badge/-Jaw_And_Teeth-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ttf.jawandteeth)
+[![Ball Rush](https://img.shields.io/badge/-Ball_Rush-090909?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revision.gamedistribution.com/c7e66ca538c2483ca2c0a67cc3d665d3/?correlator=1660554490735)
+[![Roller Coaster](https://img.shields.io/badge/-Roller_Coaster-090909?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revision.gamedistribution.com/6d0fe244fee94db58eaaa8d899f5296e/?correlator=1660554513802)
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niek352&show_icons=true&locale=en&layout=compact" alt="niek352" /></p>
 
