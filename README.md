@@ -25,9 +25,4 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niek352&show_icons=true&locale=en&layout=compact" alt="niek352" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niek352&show_icons=true&locale=en" alt="niek352" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niek352&" alt="niek352" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niek352&show_icons=true&theme=transparent)
