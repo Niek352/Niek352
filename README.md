@@ -14,8 +14,8 @@
 
 <h3 align="left">Games I Worked On</h3>
 
-[![Last Play](https://img.shields.io/badge/-Last_Play-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.jioka.lastplay)
-[![Last Life](https://img.shields.io/badge/-Last_Life-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=io.jioka.lastlife)
+[![Last Play](https://img.shields.io/badge/-Last_Play-FFD700?style=for-the-badge&logo=GooglePlay&logoColor=black)](https://play.google.com/store/apps/details?id=com.jioka.lastplay)
+[![Last Life](https://img.shields.io/badge/-Last_Life-FFD700?style=for-the-badge&logo=GooglePlay&logoColor=black)](https://play.google.com/store/apps/details?id=io.jioka.lastlife)
 [![Flash Ball](https://img.shields.io/badge/-Flash_Ball-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.THC.flashball)
 [![Jaw And Teeth](https://img.shields.io/badge/-Jaw_And_Teeth-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ttf.jawandteeth)
 [![Ball Rush](https://img.shields.io/badge/-Ball_Rush-090909?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revision.gamedistribution.com/c7e66ca538c2483ca2c0a67cc3d665d3/?correlator=1660554490735)
