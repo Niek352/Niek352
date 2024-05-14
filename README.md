@@ -25,4 +25,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niek352&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-beta-ten-69.vercel.app/api?username=niek352&show_icons=true&theme=transparent)
